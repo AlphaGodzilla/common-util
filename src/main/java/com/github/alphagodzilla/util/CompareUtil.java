@@ -1,4 +1,4 @@
-package com.github.alpha.godzilla.util;
+package com.github.alphagodzilla.util;
 
 /**
  * @author AlphaGodzilla

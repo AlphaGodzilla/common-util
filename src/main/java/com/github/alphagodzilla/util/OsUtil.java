@@ -1,4 +1,4 @@
-package com.github.alpha.godzilla.util;
+package com.github.alphagodzilla.util;
 
 import java.net.InetAddress;
 import java.net.UnknownHostException;

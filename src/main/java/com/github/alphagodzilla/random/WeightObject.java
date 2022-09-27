@@ -1,4 +1,4 @@
-package com.github.alpha.godzilla.random;
+package com.github.alphagodzilla.random;
 
 import java.util.Objects;
 
